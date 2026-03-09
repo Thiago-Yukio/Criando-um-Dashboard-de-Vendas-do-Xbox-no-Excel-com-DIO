@@ -1,0 +1,63 @@
+1. Responda:
+Pergunta: Qual é o faturamento total de vendas de planos anuais (contendo todas as assinaturas agregadas)?
+Pergunta: Qual é o faturamento total de vendas de planos anuais, separado por auto renovação e por não auto renovação?
+
+2. Analise os dados e responda às perguntas a partir de uma tabela.
+3. Selecione a tabela que foi analisada.
+4. Clique em Inserir e escolha Tabela Dinâmica.
+
+5. Insira a Tabela Dinâmica na planilha “CÁLCULO” e trabalhe em cima dela.
+Observação: Caso queira mudar o nome da Tabela Dinâmica, clique nela e altere o nome no campo correspondente.
+
+6. Para criar o gráfico dinâmico, selecione a Tabela Dinâmica, vá até a aba Análise de Tabela Dinâmica e escolha o tipo de gráfico Barras.
+7. Depois elimine as informações em excesso no gráfico.
+8. Pinte as colunas com a cor estabelecida pela tabela: #5BF6A8.
+9. Remova o contorno do gráfico.
+10. Clique novamente na Tabela Dinâmica, vá em Inserir, depois clique em Segmentação de Dados e selecione subscribe_type.
+11. Selecione o filtro, vá até Segmentação e escolha a cor verde claro.
+12. Estude quem vai consumir seu dashboard.
+13. Pinte a coluna A de #22C55E. Em seguida cole a logo do Xbox nesta coluna no canto superior.
+14. Formate a imagem para não mover nem dimensionar com células.
+15. Selecione uma área considerável a partir da coluna C e pinte com a cor #E8E6E9.
+
+16. Na linha 2 escreva:
+XBOX GAME PASS SUBSCRIPTIONS SALES
+Depois aplique:
+Estilo de célula: Título 1
+Fonte: Segoe UI
+
+17. Para mudar as bordas: Selecione bordas → Mais bordas → mude a cor para #2AE6B1.
+18. Depois selecione os gráficos feitos na planilha CÁLCULO e leve para a planilha DASHBOARD.
+19. Leve o filtro para a coluna A.
+20. No gráfico clique em Formatar Área do Gráfico e selecione “Não mover nem dimensionar com células”.
+21. Insira um retângulo branco com borda no gráfico. Depois envie ele para trás e agrupe os elementos.
+
+22. Modifique o menu para atender a cor do fundo desejado:
+Cor do fundo: #22C55E
+Cor da fonte do cabeçalho: branco
+
+23. Responda:
+Pergunta: Total de vendas de assinaturas do EA Play.
+
+24. Analise os dados e responda à pergunta a partir de uma tabela.
+25. Utilizando uma célula qualquer da planilha CÁLCULO que não esteja ocupada, copie a fórmula do total geral.
+26. Na planilha DASHBOARD crie um retângulo branco.
+27. Em cima dele posicione outro retângulo pintado de #22C55E.
+28. Dentro dele cole a fórmula copiada anteriormente e formate em moeda.
+29. Depois cole a imagem EA PLAY neste mesmo quadrante com a fórmula. Em seguida crie um cabeçalho com as pontas superiores arredondadas com cor #22C55E e escreva:
+TOTAL SUBSCRIPTIONS EA PLAY SEASON PASS
+30. Agrupe todos esses elementos.
+
+31. Responda:
+Pergunta Negócio 4 - Total de Vendas de Assinaturas do Minecraft Season Pass.
+
+32. Repita os passos 24, 25, 26, 27 e 28.
+33. Depois cole a imagem MINECRAFT neste mesmo quadrante com a fórmula. Em seguida crie um cabeçalho com as pontas superiores arredondadas com cor #22C55E e escreva:
+TOTAL SUBSCRIPTIONS MINECRAFT SEASON PASS
+34. Insira o avatar no canto superior esquerdo e mova a logo do Xbox até o título do dashboard, organizando como desejar.
+35. Abaixo do avatar insira uma mensagem de boas-vindas.
+36. No menu Exibir remova a barra de fórmulas e o título.
+37. Oculte outras tabelas.
+38. Por fim exiba o dashboard em tela inteira.
+
+PRONTO!!!
